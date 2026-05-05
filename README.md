@@ -1,2 +1,1 @@
-Here, I seek to complete my knowledge of mathematics.
-May 4 2026: I will base my programming on number theory.
+Here, I seek to complete my knowledge of mathematics. My current passion project is solving elementary problems in number theory, linear algebra, and other topics. My major interest lies in differential geometry, variational principle, commutative ring theory, and algebraic number theory.
