@@ -4,7 +4,7 @@ n=input("Enter a value: ")
 m=input("Enter another value: ")
 
 def EA(n,m):
-    q=n/m
+    q=n//m
     r=n%m
     if r==0:
         return m
